@@ -1,0 +1,10 @@
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\bin\Debug\High-Tech Products Library.exe.config
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\bin\Debug\High-Tech Products Library.exe
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\bin\Debug\High-Tech Products Library.pdb
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High-Tech Products Library.csprojResolveAssemblyReference.cache
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High_Tech_Products_Library.HighTechForm.resources
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High_Tech_Products_Library.Properties.Resources.resources
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High-Tech Products Library.csproj.GenerateResource.Cache
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High-Tech Products Library.exe
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High-Tech Products Library.pdb
+c:\users\fmtchicho\documents\visual studio 2015\Projects\High-Tech Products Library\obj\Debug\High_Tech_Products_Library.AccessFormW.resources
